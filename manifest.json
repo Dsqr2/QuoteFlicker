@@ -1,0 +1,9 @@
+{
+    "name": "QuoteFlicker",
+    "description": "Get a new Quote Everyday",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html"
+    }
+} 

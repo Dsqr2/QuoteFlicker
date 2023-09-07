@@ -1,0 +1,24 @@
+
+
+p {
+    padding: 10px;
+    font-size: 20px;
+    min-width: 100px;
+    width: 750px;
+    box-shadow: greenyellow 0px 4px 5px 5px;
+    
+}
+ 
+#heading {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: white;
+}
+
+#myAuthor{
+    display: flex;
+    justify-content: right;
+    text-align: right;
+    background-color: white;
+}
